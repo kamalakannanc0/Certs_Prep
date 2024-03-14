@@ -9,3 +9,10 @@ Focussed Study Topics:
 * Implement natural language processing solutions (30–35%)
 * Implement knowledge mining and document intelligence solutions (10–15%)
 * Implement generative AI solutions (10–15%)
+
+artificial intelligence is utilized in most of the domains nowadays and its emerging day by day.
+* visual perception
+* text analysis and conversion
+* speech
+* decision making
+
