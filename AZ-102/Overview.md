@@ -16,3 +16,20 @@ artificial intelligence is utilized in most of the domains nowadays and its emer
 * speech
 * decision making
 
+Data Science:
+Suppose an iceberg is menlting on a average of 2tons per year. A data scientist may take those data of each year with diff seasons conditions. 
+
+**Collecting the data and segregating it for the actual usage**
+
+Machine Learning:
+It is a subset of data science. If a data scientist uses the data to train the model which the algorithm helps   
+Predict values for unknown labels.
+
+_Contd. from prev passage_ - **By collecting those data he writes an algorithm to predict the values of global warming, consumption and wastage of river water**
+
+Artificial Intelligence:
+Creates a software that emulates one or more characteristics of human intelligence.
+
+_Contd. from prev passage_ - **Regularly monitoring the water level to balance the human's life.**
+
+
