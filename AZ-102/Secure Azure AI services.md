@@ -10,3 +10,13 @@ Regenerate Key
 Azure Portal -> Resource key's and Endpoint Pane
 
 ##### Protect keys with Azure Key Vault
+Azure Key Vault - you can stores secrets (user & password) 
+
+<img src="https://github.com/kamalakannan143/Certs_Prep/assets/42050635/80672ad0-0b93-4b58-8043-6a125e697f00" width="500" height="500">
+
+##### Token Based Authentication:
+When using REST interface, AI services requires token based authentication.
+1) **_In this case subscription key is presented in the initial request and it will be valid for 10 mins._**
+2) Subsequent requests must present the token to validate that the caller has been authenticated.
+
+**Note: when using SDK the obtain token and the validation to be handled by the SDK itself**
