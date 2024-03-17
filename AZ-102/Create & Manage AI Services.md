@@ -11,3 +11,14 @@ Azure AI services having multiple features of the product.
 **Cognitive Search** - A cloud scale search solution that uses AI services to extract insights from data and documents.
 **AI OpenAI** - Cognitive search that provides access to the capabilities of OpenAI GPT-4
 
+###### Multi-service resource 
+single set of access credentials to consuming multiple azure services at a single endpoint.
+
+###### Single-service resource
+Seperate endpoints for each service and it enables you to billing seperately.
+
+##### Identify Endpoints and Keys:
+* The Endpoint URI
+* A subscription Key
+* The resource location
+  
